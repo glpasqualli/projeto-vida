@@ -1,7 +1,7 @@
 # Projeto do site vida
 
-> Para alterar o código utilize:
-
+> Status: Em desenvolvimento
+ Para alterar o código utilize:
 ```
-ndm install react
+node app.js
 ```
